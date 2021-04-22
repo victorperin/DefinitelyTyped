@@ -44,6 +44,7 @@
 /// <reference path="../stream.d.ts" />
 /// <reference path="../string_decoder.d.ts" />
 /// <reference path="../timers.d.ts" />
+/// <reference path="../timers/promises.d.ts" />
 /// <reference path="../tls.d.ts" />
 /// <reference path="../trace_events.d.ts" />
 /// <reference path="../tty.d.ts" />

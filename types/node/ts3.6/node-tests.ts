@@ -22,6 +22,7 @@ import '../test/readline';
 import '../test/repl';
 import '../test/stream';
 import '../test/string_decoder';
+import '../test/timers';
 import '../test/tls';
 import '../test/tty';
 import '../test/util';
